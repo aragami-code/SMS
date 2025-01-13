@@ -1,6 +1,6 @@
 # SMS
 SMS (SCHOOL MANAGEMENT SYSTEM) 
-C'est une application de gestion d'etablissement qui permet de gerer les etudiants des l'inscription jusqu'a la gestion des notes
+C'est une application de gestion d'etablissement qui permet de gerer les etudiants commencant de  l'inscription jusqu'a la gestion des notes
 en passant par la gestion de la comptablite
 
 les modules devellopes sont:
